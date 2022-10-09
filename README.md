@@ -40,11 +40,6 @@ The YAML Pipeline is tested on __WINDOWS BUILD AGENT__ Only!!!
 5. Azure Resource Manager Service Connection in Azure DevOps.
 
 
-| __CODE REPOSITORY:-__ |
-| --------- |
-| {% github arindam0310018/17-Aug-2022-DevOps__Reset-SPI-Secret-Store-In-KV %} |
-
-
 | __HOW DOES MY CODE PLACEHOLDER LOOKS LIKE:-__ |
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fu9vuffcn5v8xb9pqpk8.png) |
